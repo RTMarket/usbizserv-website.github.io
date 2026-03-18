@@ -1,0 +1,5 @@
+# _config.yml
+url: "https://usbizserv.com"
+baseurl: ""
+plugins:
+  - jekyll-sitemap  # 自动生成 sitemap
